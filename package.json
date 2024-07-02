@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Evaldas Petkus <https://github.com/EvP8>",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
 }
