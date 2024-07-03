@@ -8,7 +8,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/EvP8/labirintas/
+Site published at: https://evp8.github.io/51-grupe-labirintas/
 
 Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI/attachments/9352426?mode=media)
 
